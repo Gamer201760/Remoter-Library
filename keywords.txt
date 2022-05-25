@@ -1,0 +1,17 @@
+#######################################
+# Syntax Coloring Map For Remoter
+#######################################
+
+Remoter	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+sendData	KEYWORD2
+regModule	KEYWORD2
+login	KEYWORD2
+begin	KEYWORD2
+removeModule	KEYWORD2
+controlling	KEYWORD2
+
+remotercfn	KEYWORD2
